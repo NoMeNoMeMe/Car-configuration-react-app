@@ -8,5 +8,5 @@ Use the package manager [npm](https://www.npmjs.com/package/npm) to run this app
 
 ```bash
 npm install
-npm starts
+npm start
 ```
